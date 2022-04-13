@@ -1,0 +1,23 @@
+{
+    "name": "zrnik/file-dump",
+    "description": "Dumps variables to file",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Štěpán Zrník",
+            "email": "stepan.zrnik@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/fileDump.php"
+        ]
+    },
+    "require": {
+        "tracy/tracy": "^2"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
