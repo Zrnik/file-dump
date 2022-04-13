@@ -1,0 +1,3 @@
+# File Dump
+
+Dumps variables into files using [Tracy](https://github.com/nette/tracy) dumper...
